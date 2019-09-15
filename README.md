@@ -1,2 +1,2 @@
-## Welcome
-https://github.com/pyyyo/MyCv
+## Welcome to MyCy
+https://pyyyo.github.io/MyCv/
