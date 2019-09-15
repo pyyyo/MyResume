@@ -1,2 +1,2 @@
-## Welcome to MyCy
-https://pyyyo.github.io/MyCv/
+## Welcome to MyResume
+https://pyyyo.github.io/MyResume/
